@@ -7,7 +7,7 @@ int main() {
 
 	int arr[5] = { 5, 4, 3, 2, 1 };
 	
-	bubbleSort(arr);
+	ShellSort(arr);
 
 	return 0;
 }

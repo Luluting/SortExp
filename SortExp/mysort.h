@@ -15,3 +15,8 @@ int insertSort(int* arr);
 //ц╟ещеепР
 int bubbleSort(int* arr);
 
+//©ЛкыеепР
+int selectionSort(int* arr);
+
+//оё╤ШеепР
+int ShellSort(int* arr);
